@@ -1,0 +1,8 @@
+vendor/
+composer.lock
+.idea/
+.vscode/
+*.iml
+.phpunit.result.cache
+.phpunit.cache
+openapitools.json
